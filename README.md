@@ -1,2 +1,2 @@
 # Smart-Dustbin 
-Arduino code i nthe text file above.
+Arduino code in the text file above.
